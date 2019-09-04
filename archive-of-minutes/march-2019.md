@@ -1,2 +1,73 @@
 # March 2019
 
+## Agenda Items & background links
+
+* Jack London
+* MUSH
+* Ian leaving
+* Ben Ward vote
+
+**Convene as Best Frequencies, Inc. Board of Directors**
+
+## 7:17 Roll Call & Check-ins
+
+Board Members Present: Tom, Ian, Will, Amanda.  
+Attending - Ben
+
+## BFF Jack London MUSH
+
+MUSH - Jack London concert series, with BFF DJs. Oakland bands only. Will be like off the grid only east bay focused. Eclectic, wide genre. Off the grid is out - they lost a bunch of people and are not booking BFF anymore. Amanda got the hookup from an old connection. Jack London buying all the equipment, pays bands. Amanda books bands, does artist mgmt, and we get branding “BFF.fm presents MUSH sponsored by….”
+
+Amanda is going to buy a liquor license through BFF \(non-profit\) and get beer or wine. We will split bar proceeds 50/50 with freelance BD person \(finder’s free\).
+
+Every other week, may-august. 9 weeks total. Re-evaluate in August to extend to October. By then hopefully would be able to get bigger bands.
+
+What do we need to do day-of? TBD - but it will be opportunity to create merch booth or mobile studio.
+
+Also, could do a pop-up radio station in Jack London anytime, not connected.
+
+## 7:32 Bid a fond farewell to Ian
+
+Moving to NY by May 1 and giving up board spot. Ian will send an official email saying he resigns seat. 
+
+## 7:34 Voting on Ben Ward joining board
+
+Ben has been working with station for 5 years. Has always deeply enjoyed putting work into BFF. Trained software engineer, product manager. BFF is creative outlet for using skills. Slightly more expanded technical role means using management and planning skills. Naturally and easily can organize thoughts around what to build and do, prioritize, fun brain exercise.
+
+Since the last board meeting, Ben has officially become technical director chairing Technical Committee. Will offload Forrest’s work, Forrest will focus more on hardware. Ben will think about creating documentation, we will have goals and business plan, think about how tech drives goals. Thinking about fundamental things like getting more DJs more involved, former DJs, little bits of infrastructure to participate and share knowledge.
+
+Community building, lowering barrier to entry. Has always found online community fun, working at Twitter to build system to encourage user behavior. Identifying functions and process to solve most critical things. Decent at breaking down systems and focusing on long-term product management.
+
+Amanda says - we can exist the way we are forever and be a fun little organization. Or we can really blow out strategic plan to be bigger, stronger, more powerful force in community.
+
+Ian motions. Everyone seconds. Unanimous vote in favor.
+
+## 7:46 Brava theater
+
+Tom has started dialog with Brava about using glass window for
+
+## 7:47 Strategic plan
+
+Amanda has put initiative to create committee structure first.
+
+## 7:48 Portland non-profit conference
+
+Other mission-driven people, much more relevant. Amanda liked sessions on re-engaging people on the site. Creating comprehensive page to get people involved. Replacing “support us” with “get involved” - listening, donating, events, volunteering, committee pipeline. Session on making sure people of color are involved in nonprofit organizations, how to be more welcoming. Start talking to DJs who are bought into mission of station and ask them what they would want to do. People are open to helping if you ask, but there has to be a structure to what they are doing w/ expectations around time and deliverables. Ben says he wants to identify core committee who can break up work and identify tasks that someone can do. Disaster recovery protocols, escalation and support procedures.
+
+## 8:00 Board note-taking
+
+Select software-based program for running board meetings.
+
+Croudsourcing agenda - expanding hierarchy of bullet points. Ways we can use google to accomplish this.  
+Ian motions for Ben to become Secretary \(note-taking\).
+
+## 8:02 Caravan video company - pitched setting up video
+
+Amanda gave him a code to the secret alley in exchange for setting up video pro bono over the summer. Xray FM - small organization in an arts space that has terrestrial space. Every municipality has a cable operator consortium, required to donate to arts organizations. $60k grant from oregon to outfit studio. Would it be possible to get this grant or funding? Payment for being in secret alley is interviewing DJs for fundraising videos. Getting him to generate content. Lilly creating a station-wide ID project to create format and identify shows. Ben suggests when we snapshot and archive mp3s, automatically splice identifier at the beginning. Or reference promos for other shows.
+
+## 8:07 Amanda will send out final draft of strategic plan
+
+Can get together to discuss plan or ratify. Next step is to meet to discuss rollout, calling station-wide meeting, present it to all DJs. All-hands to launch plan. DJs abstractly aware that board exists. Create future pipeline. We need a treasurer, but otherwise can take time adding new people. As long as we are moving forward we can keep things small on board.
+
+## 8:13 Meeting adjorned
+
