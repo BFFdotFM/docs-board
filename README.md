@@ -8,7 +8,9 @@ The BFF.fm board meets on the 3rd Thursday of each month at **Pop's Bar, York St
 
 ### William Craven, President of the Board
 
-Will presents [I Luv Mondays](https://bff.fm/shows/i-luv-mondays).
+Will is a senior consultant at the [Straubel Foundation](https://www.straubelfoundation.org/).
+
+Will presents the show [I Luv Mondays](https://bff.fm/shows/i-luv-mondays).
 
 ### Ben Ward, Secretary
 
@@ -30,5 +32,5 @@ Amanda presents [the BFF.fm Top 30](https://bff.fm/shows/top30).
 
 ### Tom Tierney
 
-Tom is the proprietor of Pop's Bar, in San Francisco.
+Tom is the owner of Pop's Bar, in San Francisco.
 
