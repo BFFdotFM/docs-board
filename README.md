@@ -1,36 +1,23 @@
-# The BFF.fm Board
+# The BFF.fm Board of Directors
 
-{% hint style="info" %}
-The BFF.fm board meets on the 3rd Thursday of each month at **Pop's Bar, York Street** in **San Francisco**.
+The BFF.fm board of directors guides the strategic direction and long-term sustainability of the station to advance our vision of building powerful community radio for San Francisco. The board’s leadership helps ensure that our mission, values, and our superpowers of positivity and inclusion are embodied in everything we do.
+
+## Next Meeting
+
+{% hint style="danger" %}
+Due to the COVID-19 situation, the BFF.fm is not currently meeting in person. We are meeting virtually via video conference.
 {% endhint %}
 
-## Members
+The next meeting of the BFF.fm Board of Directors will be on **May 21st, 2020 at 6pm.**
 
-### William Craven, President of the Board
+> **Zoom Meeting:** [https://us02web.zoom.us/j/93126767540](https://us02web.zoom.us/j/93126767540?pwd=L3RmdlBpd05UNWRPVm5zdlZJR0ZFQT09)
+>
+> Meeting ID: 931 2676 7540  
+> Password: 024206
+>
+> You may also dial in via phone. Find your local number here: [https://us02web.zoom.us/u/kmcTxZ3fp](https://us02web.zoom.us/u/kmcTxZ3fp)
 
-Will is a senior consultant at the [Straubel Foundation](https://www.straubelfoundation.org/).
+Public atttendence of our board meetings is welcomed. Upon joining, your microphone will be muted and we kindly ask that it remain so, to avoid disruption. Each meeting agenda includes a dedicated opportunity for “Public Comment”, during which you will be invited to speak.
 
-Will presents the show [I Luv Mondays](https://bff.fm/shows/i-luv-mondays).
 
-### Ben Ward, Secretary
-
-BFF.fm Technical Director
-
-Ben Ward has been a member of the BFF.fm community since 2014, presenting two shows and lead redevelopment of the BFF.fm website in 2017. He's been a software engineer and product manager for over 15 years, working for some of the largest tech companies in Silicon Valley and his native UK. As the  Technical Director he chairs the volunteer technical committee, oversees all technical strategy for the station, and ensures instracture inventments are aligned with the station goals.
-
-Ben presents [No Magic](https://bff.fm/shows/nomagic).
-
-### Amanda Guest
-
-BFF.fm Founder & General Manager
-
-Amanda Guest is the founder and station manager of [BFF.fm](http://bff.fm/). She has been involved in college and community radio since 1994, becoming a DJ on WMWM 91.7fm as a freshman at Salem State University. Guest launched [BFF.fm](http://bff.fm/) in 2013 out of a love of indie music and community radio, and because she wanted to create a place where a whole new generation of post-collegiate music nerds could unite and geek-out over awesome new music.
-
-After all these years and changes in how it's delivered — from terrestrial broadcast to online streaming — Guest still believes in the power of community radio to play a positive role in our local music scene.
-
-Amanda presents [the BFF.fm Top 30](https://bff.fm/shows/top30).
-
-### Tom Tierney
-
-Tom is the owner of Pop's Bar, in San Francisco.
 
