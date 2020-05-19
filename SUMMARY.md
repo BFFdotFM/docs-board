@@ -4,12 +4,12 @@
 
 ## Members
 
-* [Members](members/members/README.md)
-  * [Chair of the Board](members/members/chair.md)
-  * [Vice Chair](members/members/vice-chair.md)
-  * [Executive Director](members/members/executive-director.md)
-  * [Board Secretary](members/members/secretary.md)
-  * [Treasurer](members/members/treasurer.md)
+* [Members](members/overview/README.md)
+  * [Chair of the Board](members/overview/chair.md)
+  * [Vice Chair](members/overview/vice-chair.md)
+  * [Executive Director](members/overview/executive-director.md)
+  * [Board Secretary](members/overview/secretary.md)
+  * [Treasurer](members/overview/treasurer.md)
 
 ## Minutes
 
