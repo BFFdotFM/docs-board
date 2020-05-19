@@ -1,6 +1,8 @@
+---
+description: Ben Ward
+---
+
 # Board Secretary
-
-
 
 The BFF.fm board of directors guides the strategic direction and long-term sustainability of the station to advance our vision of building powerful community radio for San Francisco. The board’s leadership helps ensure that our mission, values, and our superpowers of positivity and inclusion are embodied in everything we do.
 

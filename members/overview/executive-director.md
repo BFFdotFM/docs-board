@@ -4,6 +4,8 @@ description: Amanda Guest
 
 # Executive Director
 
+The BFF.fm board of directors guides the strategic direction and long-term sustainability of the station to advance our vision of building powerful community radio for San Francisco. The board’s leadership helps ensure that our mission, values, and our superpowers of positivity and inclusion are embodied in everything we do.
+
 ## Responsibilities
 
 ### Being the key ambassador of BFF.fm and advocating its mission to internal and external stakeholders
