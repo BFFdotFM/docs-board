@@ -28,7 +28,3 @@ The Vice Chair of the Board shall, in the absence of the Chair, preside over any
 * Contributing towards ongoing recruitment of board members
 * Participating in an annual performance review of the President/Executive Director
 
-## Tom Tierney
-
-Tom is the owner of Pop's Bar, in San Francisco.
-

@@ -34,7 +34,3 @@ The Treasurer of the Board is responsible for the accounting and banking for BFF
 * Contributing towards ongoing recruitment of board members
 * Participating in an annual performance review of the President/Executive Director
 
-## Vacant Position
-
-The position of treasurer is not currently occupied by a member of the board.
-

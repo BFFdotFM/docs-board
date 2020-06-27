@@ -1,5 +1,5 @@
 ---
-description: William Craven
+description: Amanda Guest
 ---
 
 # Chair of the Board
@@ -27,10 +27,6 @@ The Chair of the Board shall, if present, preside over all meetings of the BFF.f
 * Cultivating and soliciting major foundation grants and individual gifts
 * Assuring ongoing recruitment, development, and contributions of board members
 * Coordinating an annual performance review of the President/Executive Director
-
-## William Craven
-
-Will is a senior consultant at the [Straubel Foundation](https://www.straubelfoundation.org/), and presents the show [I Luv Mondays](https://bff.fm/shows/i-luv-mondays) on BFF.fm.
 
 
 

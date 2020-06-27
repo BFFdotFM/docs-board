@@ -5,11 +5,19 @@
 ## Members
 
 * [Members](members/overview/README.md)
-  * [Chair of the Board](members/overview/chair.md)
-  * [Vice Chair](members/overview/vice-chair.md)
-  * [Executive Director](members/overview/executive-director.md)
-  * [Board Secretary](members/overview/secretary.md)
-  * [Treasurer](members/overview/treasurer.md)
+  * [Roles](members/overview/roles/README.md)
+    * [Chair of the Board](members/overview/roles/chair.md)
+    * [Vice Chair](members/overview/roles/vice-chair.md)
+    * [Treasurer](members/overview/roles/treasurer.md)
+    * [Board Secretary](members/overview/roles/secretary.md)
+    * [Executive Director](members/overview/roles/executive-director.md)
+  * [People](members/overview/people/README.md)
+    * [Eddie/Erika Delgado](members/overview/people/eddie-erika-delgado.md)
+    * [Amanda Guest](members/overview/people/amanda-guest.md)
+    * [Caryn Kesler](members/overview/people/caryn-kesler.md)
+    * [Tom Tierney](members/overview/people/tom-tierney.md)
+    * [Ben Ward](members/overview/people/ben-ward.md)
+    * [Alumnus](members/overview/people/alumnus.md)
 
 ## Minutes
 
