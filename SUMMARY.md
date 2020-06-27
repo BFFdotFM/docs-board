@@ -4,20 +4,20 @@
 
 ## Members
 
-* [Members](members/overview/README.md)
-  * [Roles](members/overview/roles/README.md)
-    * [Chair of the Board](members/overview/roles/chair.md)
-    * [Vice Chair](members/overview/roles/vice-chair.md)
-    * [Treasurer](members/overview/roles/treasurer.md)
-    * [Board Secretary](members/overview/roles/secretary.md)
-    * [Executive Director](members/overview/roles/executive-director.md)
-  * [People](members/overview/people/README.md)
-    * [Eddie/Erika Delgado](members/overview/people/eddie-erika-delgado.md)
-    * [Amanda Guest](members/overview/people/amanda-guest.md)
-    * [Caryn Kesler](members/overview/people/caryn-kesler.md)
-    * [Tom Tierney](members/overview/people/tom-tierney.md)
-    * [Ben Ward](members/overview/people/ben-ward.md)
-    * [Alumnus](members/overview/people/alumnus.md)
+* [Members](members/overview.md)
+* [People](members/people/README.md)
+  * [Eddie/Erika Delgado](members/people/eddie-erika-delgado.md)
+  * [Amanda Guest](members/people/amanda-guest.md)
+  * [Caryn Kesler](members/people/caryn-kesler.md)
+  * [Tom Tierney](members/people/tom-tierney.md)
+  * [Ben Ward](members/people/ben-ward.md)
+  * [Alumnus](members/people/alumnus.md)
+* [Roles](members/roles/README.md)
+  * [Chair of the Board](members/roles/chair.md)
+  * [Vice Chair](members/roles/vice-chair.md)
+  * [Treasurer](members/roles/treasurer.md)
+  * [Board Secretary](members/roles/secretary.md)
+  * [Executive Director](members/roles/executive-director.md)
 
 ## Minutes
 
