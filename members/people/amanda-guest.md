@@ -1,3 +1,7 @@
+---
+description: President of the Board
+---
+
 # Amanda Guest
 
 [Executive Director](../roles/executive-director.md), President & [Chair of the Board](../roles/chair.md). BFF.fm founder and station manager.
