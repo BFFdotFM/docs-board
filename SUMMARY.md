@@ -2,11 +2,11 @@
 
 * [The BFF.fm Board of Directors](README.md)
 
-## Members
+## Membership <a id="members"></a>
 
 * [Members](members/overview.md)
 * [People](members/people/README.md)
-  * [Eddie/Erika Delgado](members/people/eddie-erika-delgado.md)
+  * [Erika Delgado Aceves](members/people/erika-delgado-aceves.md)
   * [Amanda Guest](members/people/amanda-guest.md)
   * [Caryn Kesler](members/people/caryn-kesler.md)
   * [Tom Tierney](members/people/tom-tierney.md)
@@ -46,4 +46,8 @@
 * [Extraordinary Meetings](minutes/extra/README.md)
   * [April 2020 COVID-19 Relief Fund Emergency Motion](minutes/extra/april-2020-covid-19-relief-fund-emergency-motion.md)
   * [September 2019 Working Session](minutes/extra/2019-09.md)
+
+## Organization <a id="org"></a>
+
+* [Bylaws](org/bylaws.md)
 
