@@ -49,5 +49,8 @@
 
 ## Organization <a id="org"></a>
 
+* [About BFF.fm](https://bff.fm/about)
+* [Support & Donate](https://bff.fm/donate)
 * [Bylaws](org/bylaws.md)
+* [Strategic Plan](https://forms.gle/y1hArjkvMKqLxpCq7)
 
