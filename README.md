@@ -8,7 +8,7 @@ The BFF.fm board of directors guides the strategic direction and long-term susta
 Due to the COVID-19 situation, the BFF.fm board is not currently meeting in person. We are meeting virtually via video conference.
 {% endhint %}
 
-The next meeting of the BFF.fm Board of Directors will be on **July 23rd, 2020 at 6pm.**
+The next meeting of the BFF.fm Board of Directors will be on **August 20th, 2020 at 6pm.**
 
 > **Zoom Meeting:** [https://us02web.zoom.us/j/93126767540](https://us02web.zoom.us/j/93126767540?pwd=L3RmdlBpd05UNWRPVm5zdlZJR0ZFQT09)
 >
@@ -17,7 +17,7 @@ The next meeting of the BFF.fm Board of Directors will be on **July 23rd, 2020 a
 >
 > You may also dial in via phone. Find your local number here: [https://us02web.zoom.us/u/kmcTxZ3fp](https://us02web.zoom.us/u/kmcTxZ3fp)
 
-Public atttendence of our board meetings is welcomed. Upon joining, your microphone will be muted and we kindly ask that it remain so, to avoid disruption. Each meeting agenda includes a dedicated opportunity for “Public Comment”, during which you will be invited to speak.
+Public atttendence of our board meetings is welcomed. Upon joining, your microphone will be muted and we kindly ask that it remain so, to avoid disruption. Each meeting  includes a dedicated opportunity for “Public Comment”, during which you will be invited to contribute.
 
 
 
