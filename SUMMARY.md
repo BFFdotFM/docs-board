@@ -22,6 +22,7 @@
 ## Minutes
 
 * [Regular Meetings](minutes/meetings/README.md)
+  * [November 2020](minutes/meetings/november-2020.md)
   * [October 2020](minutes/meetings/october-2020.md)
   * [September 2020](minutes/meetings/2020-09.md)
   * [August 2020](minutes/meetings/2020-08.md)
