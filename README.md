@@ -12,5 +12,5 @@ The next meeting of the BFF.fm Board of Directors will be on **February 18th 202
 
 > **Google Meet:** [https://meet.google.com/svz-czwg-eyn](https://meet.google.com/svz-czwg-eyn)
 
-Public atttendence of our board meetings is welcomed. Upon joining, your microphone will be muted and we kindly ask that it remain so to avoid disruption. Each meeting includes a dedicated opportunity for “Public Comment”, during which you will be invited to contribute.
+Public attendance of our board meetings is welcomed. Upon joining, your microphone will be muted and we kindly ask that it remain so to avoid disruption. Each meeting includes a dedicated opportunity for “Public Comment”, during which you will be invited to contribute.
 

@@ -2,7 +2,7 @@
 
 ## FIRST AMENDED AND RESTATED BYLAWS of BEST FREQUENCIES, INC.
 
-**A Nonprofit Public Benefit Corporation**
+**A Non-profit Public Benefit Corporation**
 
 ### **I. Offices**
 
@@ -20,7 +20,7 @@ This corporation is organized exclusively for charitable purposes within the mea
 
 ### III. Construction and Definitions
 
-Unless the context requires otherwise, the general provisions, rules of construction, and definitions in the California Nonprofit Corporation Law shall govern the construction of these Bylaws. Without limiting the generality of the preceding sentence, the masculine gender includes the feminine and neuter, the singular includes the plural, the plural includes the singular, and the term "person" includes both a legal entity and a natural person.
+Unless the context requires otherwise, the general provisions, rules of construction, and definitions in the California Non-profit Corporation Law shall govern the construction of these Bylaws. Without limiting the generality of the preceding sentence, the masculine gender includes the feminine and neuter, the singular includes the plural, the plural includes the singular, and the term "person" includes both a legal entity and a natural person.
 
 ### IV. Dedication of Assets
 
@@ -30,7 +30,7 @@ This corporation's assets are irrevocably dedicated to public and charitable pur
 
 #### A.
 
-This corporation shall have no voting members within the meaning of the Nonprofit Corporation Law. Notwithstanding the foregoing, DJ’s, radio hosts, and other regular volunteers of the radio station may be admitted as nonvoting members in the discretion corporation's board of directors.
+This corporation shall have no voting members within the meaning of the Non-profit Corporation Law. Notwithstanding the foregoing, DJ’s, radio hosts, and other regular volunteers of the radio station may be admitted as non-voting members in the discretion corporation's board of directors.
 
 #### B. Eligibility for membership
 
@@ -52,7 +52,7 @@ The corporation shall convene an annual meeting of the members each year. Notice
 
 #### A. General Powers.
 
-Subject to the provisions of the Nonprofit Public Benefit Corporation Law \(the "Law"\) and any limitation in the articles and Bylaws of this corporation, the activities and affairs of this corporation shall be conducted and all corporate powers shall be exercised by or under the direction of the board. The board may delegate the management of the activities of this corporation to any person or persons, management company, or committee however composed, provided that the activities and affairs of this corporation shall be managed and all corporate powers shall be exercised under the ultimate direction of the board.
+Subject to the provisions of the Non-profit Public Benefit Corporation Law \(the "Law"\) and any limitation in the articles and Bylaws of this corporation, the activities and affairs of this corporation shall be conducted and all corporate powers shall be exercised by or under the direction of the board. The board may delegate the management of the activities of this corporation to any person or persons, management company, or committee however composed, provided that the activities and affairs of this corporation shall be managed and all corporate powers shall be exercised under the ultimate direction of the board.
 
 #### B. Number of Directors.
 
@@ -104,7 +104,7 @@ In performing the duties of a director, a director shall be entitled to rely on 
 
 1. One or more officers or employees of this corporation whom the director believes to be reliable and competent in the matters presented;
 2. Counsel, independent accountants or other persons as to matters which the director believes to be within such person's professional or expert competence; or
-3. A committee of the board upon which the director does not serve, as to matters within its designated authority, which committee the director believes to merit confidence, so long as, in any such case, the director acts in good faith, after reasonable inquiry when the need therefor is indicated by the circumstances and without knowledge that would cause such reliance to be unwarranted.
+3. A committee of the board upon which the director does not serve, as to matters within its designated authority, which committee the director believes to merit confidence, so long as, in any such case, the director acts in good faith, after reasonable inquiry when the need therefore is indicated by the circumstances and without knowledge that would cause such reliance to be unwarranted.
 
 #### M. Directors' Duty of Loyalty.
 
@@ -289,7 +289,7 @@ Nothing in this Section A creates a duty of care or basis of liability for damag
 
 #### B. Limitation of Liability of Certain Directors.
 
-Except as provided in Section 5233 or 5237 of the California Nonprofit Corporation Law, there is no monetary liability on the part of, and no cause of action for damages shall arise against, any nonpaid director, including any nonpaid director who is also a nonpaid officer, of this corporation based upon any alleged failure to discharge the person's duties as director or officer if the duties are performed in a manner that meets all of the following criteria:
+Except as provided in Section 5233 or 5237 of the California Non-profit Corporation Law, there is no monetary liability on the part of, and no cause of action for damages shall arise against, any non-paid director, including any non-paid director who is also a non-paid officer, of this corporation based upon any alleged failure to discharge the person's duties as director or officer if the duties are performed in a manner that meets all of the following criteria:
 
 1. The duties are performed in good faith;
 2. The duties are performed in a manner such director believes to be in the best interests of the corporation; and
@@ -297,7 +297,7 @@ Except as provided in Section 5233 or 5237 of the California Nonprofit Corporati
 
 ### XIV. Corporate Loans, Guarantees and Advances
 
-Except as provided by the California Nonprofit Corporation Law \(Section 5236\), this corporation shall not make any loan of money or property to or guarantee the obligation of any director or officer.
+Except as provided by the California Non-profit Corporation Law \(Section 5236\), this corporation shall not make any loan of money or property to or guarantee the obligation of any director or officer.
 
 ### XV. Amendments to Bylaws
 
