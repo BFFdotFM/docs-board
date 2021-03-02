@@ -1,5 +1,5 @@
 ---
-description: Vacant position
+description: Jenn Lemon
 ---
 
 # Treasurer

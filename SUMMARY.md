@@ -9,10 +9,11 @@
   * [Erika Delgado Aceves](members/people/erika-delgado-aceves.md)
   * [Amanda Guest](members/people/amanda-guest.md)
   * [Caryn Kesler](members/people/caryn-kesler.md)
+  * [Jenn Lemon](members/people/jenn-lemon.md)
   * [Tom Tierney](members/people/tom-tierney.md)
   * [Ben Ward](members/people/ben-ward.md)
   * [Alumnus](members/people/alumnus.md)
-* [Roles](members/roles/README.md)
+* [Positions](members/roles/README.md)
   * [Chair of the Board](members/roles/chair.md)
   * [Vice Chair](members/roles/vice-chair.md)
   * [Treasurer](members/roles/treasurer.md)
@@ -22,6 +23,7 @@
 ## Minutes
 
 * [Regular Meetings](minutes/meetings/README.md)
+  * [January 2021](minutes/meetings/2021-01.md)
   * [December 2020](minutes/meetings/december-2020.md)
   * [November 2020](minutes/meetings/november-2020.md)
   * [October 2020](minutes/meetings/october-2020.md)
