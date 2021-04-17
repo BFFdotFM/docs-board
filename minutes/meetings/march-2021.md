@@ -1,0 +1,159 @@
+---
+description: 'March 18th 2021, San Francisco'
+---
+
+# March 2021
+
+## Agenda
+
+### Opening Items
+
+* Review Agenda & Vote
+* Vote to approve previous minutes
+
+### Discussion Topics
+
+1. Committee Updates
+   1. Events
+   2. Marketing
+   3. Fundraising
+   4. Tech
+   5. Board Development
+   6. Music
+   7. Finance
+2. Review Last Month’s Action Items
+   1. Tinitivity Brainstorming v2 \[All\]
+   2. Complete Amanda’s 2020 performance review \[Caryn\]
+3. Scavenger Hunt: Sponsorships, Etc.
+4. Donation matching
+5. Redacted Session
+6. Strategic Planning
+
+### Closing Items
+
+* Open for public comment
+* Any other business?
+
+## Minutes
+
+Scribe: **Ben Ward**
+
+Present:
+
+* **Erika Delgado**, Events Director
+* **Amanda Guest**, Chair, Executive Director
+* **Caryn Kesler**, Creative Director
+* **Jenn Lemon,** Treasurer
+* **Ben Ward**, Secretary, Technical Director
+
+Absent:
+
+* **Tom Tierney**, Vice Chair
+
+### 18:13 — Convene, Vote on Agenda & Previous Minutes
+
+{% hint style="success" %}
+Vote **YES** to approve the February minutes.
+{% endhint %}
+
+{% hint style="success" %}
+Vote **YES** to adopt the proposed agenda.
+{% endhint %}
+
+### 18:14 — Committee Updates
+
+#### Events
+
+* March Bestie Bash, went well. Less viewers on Twitch this time around.
+* We have a new volunteer to help run the event in future.
+* There will be another in April.
+* Technologically we ran 3x streams from the same source. We have the capability to do it to others \(e.g. Twitter, Instagram Live.\)
+* We didn’t get any significant viewership on YT/Facebook, but there are engagement and activity benefits to keep streaming there all the same.
+* Events meeting next week.
+
+#### Tech
+
+* Creek update soon that should help make the codebase more accessible to other’s contributions.
+* Getting Involved Page ready to start development, pending volunteer.
+* No update on Analytics Infrastructure this month.
+* Video infrastructure is impoving well \(see above.\)
+
+#### Board Development
+
+* Made a job posting on LinkedIn for a development director
+* Actively looking for someone with a fundraising and development background to join the board.
+
+#### Marketing
+
+* No update this month.
+
+#### Fundraising
+
+* Marisa launched a t-shirt campaign — our March tinitivity. So far today we’ve made $200. Campaign for that will last ~a week.
+* We’ve moved over to a new platform called Bonfire \(from Teespring\). It has a nice upsell purchase flow where people are able to buy
+* No tinitivity for April, but for May there will be a Roll Over Easy mug
+* Amanda has found a product that will allow us to better integrate Corporate Matching into our donation flow.
+
+#### Music
+
+* No update this month.
+
+### 18:29 — Reviewing Last Month’s Action Items
+
+#### Tinitivities
+
+Eddie’s idea was to set up Marisa which is already running! Ben’s idea for a “donator appreciate page” on the website might be too big for a tinitivity \(again\), but could be a cool thing to add to a future fundraiser.
+
+Q: What’s the cadence for theses?
+
+A: The goal is to do one per month, and stagger them. Some are transactional \(e.g. selling a tee, mug\), others are mission driven/emotive \(e.g. a fundraiser for a birthday\) — we’d like to have a 2:1 ration of emotional:transactional each quarter. We don’t want to have a totally transactional relationship with our listeners.
+
+Jen: The emotional kind of fundraiser is the sort that should get people engaged over and over rather than a one-off purchase.
+
+We would still like to figure out a tinitivity for April. We do want to get more people involved in coming up with the ideas, but would like to have more examples to point to before we do that.
+
+#### 2020 Review
+
+Caryn: We’re ready to share the report with Amanda, will set up a meeting with Tom and Amanda to do that.
+
+Next step after this is to set 2021 goals at the board level.
+
+### 18:32 — Scavenger Hunt: Sponsorships, Etc.
+
+Amanda has put together a deck pitching the Scavenger Hunt to potential sponsors. Have set out 5 sponsorship levels based on some best practice advice, with an expensive top level to co-brand the event with us while covering the entire budget.
+
+Working with a graphic designer who might collaborate on collateral for the event \(e.g. maps\), who is also reaching out to potential sponsors.
+
+Working with Clair to approach initial possible sponsors. Clair working on less formal version of the pitch letter that will be distributed to DJs for wider community to use for outreach. We want to complete “warm touch” sponsor outreach by the end of April, so we can call it early whether to go ahead if we don’t get the sponsorship we need. Have been advised that we should have a 6 month lead time before the event to gather funds from corp sponsors.
+
+### 19:11 — \[REDACTED SESSION\]
+
+{% hint style="warning" %}
+This session was redacted. Notes have been taken and archived, and will be published after the period of sensitivity has passed.
+{% endhint %}
+
+### 19:53 — Strategic Planning
+
+In 2019 we did a 3 year strategic plan. The fundraising aspect of that has fallen very short \(e.g. this year was planned to raise $250,000\). We should consider how to get realigned. Maybe “pretend 2020 didn’t happen”, or otherwise revisit the plan and extend it beyond the original window and do the next full scale strategic planning in 2022.
+
+Means we can focus on meeting our core mission and making up the fundraising shortfall.
+
+### 19:53 — Public Comments
+
+* No public comments this month.
+
+### 20:08 — Any other business?
+
+* Ben’s new glasses look good. He has aged and now has to have a dedicated computer prescription.
+
+### 20:09 — Meeting adjourned.
+
+The next meeting of the BFF.fm board is scheduled for 6pm on April 15th 2021. See [https://board.bff.fm](https://board.bff.fm/) for more information.
+
+## Action Items
+
+* All:
+  * Action Item: Include “Review the Strategic Plan” in next month’s agenda — everyone should review it beforehand.
+  * Contact Amanda if you have sponsorship ideas for the scavenger hunt
+  * Continue to think of Tinitivities.
+

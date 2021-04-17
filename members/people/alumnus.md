@@ -13,6 +13,7 @@ description: These people previously served on the BFF.fm board. Thank you.
 | Ian McPhee | Secretary | 2019 |
 | Forrest Guest | Treasurer | 2020 |
 | Will Craven | President, Chair of the Board | 2020 |
+| Tom Tierney | Vice Chair | 2021 |
 
 
 

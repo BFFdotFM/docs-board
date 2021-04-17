@@ -10,7 +10,7 @@
   * [Amanda Guest](members/people/amanda-guest.md)
   * [Caryn Kesler](members/people/caryn-kesler.md)
   * [Jenn Lemon](members/people/jenn-lemon.md)
-  * [Tom Tierney](members/people/tom-tierney.md)
+  * [Brandon Paski](members/people/brandon-paski.md)
   * [Ben Ward](members/people/ben-ward.md)
   * [Alumnus](members/people/alumnus.md)
 * [Positions](members/roles/README.md)
@@ -23,6 +23,7 @@
 ## Minutes
 
 * [Regular Meetings](minutes/meetings/README.md)
+  * [March 2021](minutes/meetings/march-2021.md)
   * [February 2021](minutes/meetings/2021-02.md)
   * [January 2021](minutes/meetings/2021-01.md)
   * [December 2020](minutes/meetings/december-2020.md)
