@@ -10,6 +10,7 @@
   * [Amanda Guest](members/people/amanda-guest.md)
   * [Caryn Kesler](members/people/caryn-kesler.md)
   * [Jenn Lemon](members/people/jenn-lemon.md)
+  * [Clair McDevitt](members/people/clair-mcdevitt.md)
   * [Brandon Paski](members/people/brandon-paski.md)
   * [Ben Ward](members/people/ben-ward.md)
   * [Alumnus](members/people/alumnus.md)
