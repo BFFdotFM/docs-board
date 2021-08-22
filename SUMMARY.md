@@ -24,6 +24,7 @@
 ## Minutes
 
 * [Regular Meetings](minutes/meetings/README.md)
+  * [July 2021](minutes/meetings/2021-07.md)
   * [June 2021](minutes/meetings/june-2021.md)
   * [May 2021](minutes/meetings/2021-05.md)
   * [April 2021](minutes/meetings/2021-04.md)
