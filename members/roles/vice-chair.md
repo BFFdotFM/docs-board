@@ -27,4 +27,3 @@ The Vice Chair of the Board shall, in the absence of the Chair, preside over any
 * Cultivating and soliciting individual gifts
 * Contributing towards ongoing recruitment of board members
 * Participating in an annual performance review of the President/Executive Director
-

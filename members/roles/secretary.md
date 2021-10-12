@@ -26,4 +26,3 @@ The Secretary of the Board ensures all rules and bylaws are adhered to by the bo
 * Cultivating and soliciting individual gifts
 * Contributing towards ongoing recruitment of board members
 * Participating in an annual performance review of the President/Executive Director
-

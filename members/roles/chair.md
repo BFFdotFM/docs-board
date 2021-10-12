@@ -28,5 +28,3 @@ The Chair of the Board shall, if present, preside over all meetings of the BFF.f
 * Assuring ongoing recruitment, development, and contributions of board members
 * Coordinating an annual performance review of the President/Executive Director
 
-
-

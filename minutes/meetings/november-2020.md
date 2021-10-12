@@ -1,5 +1,5 @@
 ---
-description: 'November 18th 2020, San Francisco'
+description: November 18th 2020, San Francisco
 ---
 
 # November 2020
@@ -8,8 +8,8 @@ description: 'November 18th 2020, San Francisco'
 
 ### Opening Items
 
-* Review Agenda & Vote \[Ben\]
-* Vote to approve previous minutes \[Ben\]
+* Review Agenda & Vote \[Ben]
+* Vote to approve previous minutes \[Ben]
 
 ### Discussion Topics
 
@@ -19,10 +19,10 @@ _Prior to the meeting, please add items for discussion here:_
    1. Events
    2. Tech
    3. Board Development Committee
-2. End of Year Fundraiser \[Amanda\]
-3. Review 2021 proposed budget \[Amanda\]
+2. End of Year Fundraiser \[Amanda]
+3. Review 2021 proposed budget \[Amanda]
 4. Executive Performance Review: Sign off and execution
-   1. Review & approve Caryn and Tom’s report outline \(shared in advanced\) \[Caryn/Tom\]
+   1. Review & approve Caryn and Tom’s report outline (shared in advanced) \[Caryn/Tom]
    2. Resolve how information will be gathered for all items in the outline
    3. List actions for completing the review report by the deadline
 
@@ -86,7 +86,7 @@ Next steps: Everyone should review the draft budget and consider it “pending�
 
 Goal set at $25,000 by December 31
 
-* Similar playbook to last year, starting behind the scenes ASAP for a December 1 \(Giving Tuesday\) launch of public campaign.
+* Similar playbook to last year, starting behind the scenes ASAP for a December 1 (Giving Tuesday) launch of public campaign.
 * Josef wasn’t particularly excited about the idea of doing a virtual gala...and neither am I due to the amount of work it will take! But, I have some ideas in motion, and depending on where we are money-wise by November 20 will make the call.
 
 Each board member should name at least one person they will be soliciting for a donation. It could be a new person, or if there’s an existing donor with whom the board member has a good relationship, the goal should be upgrading the gift.
@@ -104,5 +104,4 @@ Each board member should name at least one person they will be soliciting for a 
 
 ### 20:32 — Meeting adjourned.
 
-The next meeting of the BFF.fm board is scheduled for 6pm on December 17th. See [https://board.bff.fm](https://board.bff.fm/) for more information.
-
+The next meeting of the BFF.fm board is scheduled for 6pm on December 17th. See [https://board.bff.fm](https://board.bff.fm) for more information.

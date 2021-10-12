@@ -33,4 +33,3 @@ The Treasurer of the Board is responsible for the accounting and banking for BFF
 * Cultivating and soliciting individual gifts
 * Contributing towards ongoing recruitment of board members
 * Participating in an annual performance review of the President/Executive Director
-

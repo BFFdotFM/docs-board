@@ -29,4 +29,3 @@ The BFF.fm board of directors guides the strategic direction and long-term susta
 * Lead the development and refinement of impact metrics
 * Assess the performance of the board and its committees
 * Ensure the board’s directives, policies, and resolutions are carried out
-

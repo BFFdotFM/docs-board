@@ -2,7 +2,7 @@
 
 * [The BFF.fm Board of Directors](README.md)
 
-## Membership <a id="members"></a>
+## Membership <a href="members" id="members"></a>
 
 * [Members](members/overview.md)
 * [People](members/people/README.md)
@@ -24,6 +24,7 @@
 ## Minutes
 
 * [Regular Meetings](minutes/meetings/README.md)
+  * [August 2021](minutes/meetings/2021-08.md)
   * [July 2021](minutes/meetings/2021-07.md)
   * [June 2021](minutes/meetings/june-2021.md)
   * [May 2021](minutes/meetings/2021-05.md)
@@ -63,10 +64,9 @@
   * [April 2020 COVID-19 Relief Fund Emergency Motion](minutes/extra/april-2020-covid-19-relief-fund-emergency-motion.md)
   * [September 2019 Working Session](minutes/extra/2019-09.md)
 
-## Organization <a id="org"></a>
+## Organization <a href="org" id="org"></a>
 
 * [About BFF.fm](https://bff.fm/about)
 * [Support & Donate](https://bff.fm/donate)
 * [Bylaws](org/bylaws.md)
 * [Strategic Plan](https://forms.gle/y1hArjkvMKqLxpCq7)
-

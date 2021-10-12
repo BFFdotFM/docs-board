@@ -9,4 +9,3 @@ Brandon has always had a passion for radio and new music discovery. In 7th grade
 While at SFSU getting a degree in Radio/TV, Brandon started working part-time at LIVE 105 and slowly worked up to Marketing, Promotions and Events Director. His collective radio experience spans over 20 years. He has worked for an indie label managing various projects, and was an assistant to the booking agent and volunteer and DJ at KSCU.
 
 > I once had a professor tell me, "If you love music, don't get into radio. Radio has nothing to do with music." I absolutely hated that statement and always tried to keep that in the back of my mind throughout my career. Radio is about music... but not only music, it's about serving the community. I think you have built something special here that can serve the community and I would jump at the chance to be a part of it.
-

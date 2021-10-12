@@ -1,5 +1,5 @@
 ---
-description: 'October 15th 2020, San Francisco'
+description: October 15th 2020, San Francisco
 ---
 
 # October 2020
@@ -8,8 +8,8 @@ description: 'October 15th 2020, San Francisco'
 
 ### Opening Items
 
-* Review Agenda & Vote \[Ben\]
-* Vote to approve previous minutes \[Ben\]
+* Review Agenda & Vote \[Ben]
+* Vote to approve previous minutes \[Ben]
 
 ### Discussion Topics
 
@@ -24,7 +24,7 @@ _Prior to the meeting, please add items for discussion here:_
    2. Impact on our relationship with The Secret Alley
 3. Performance review planning: Creation of agenda for Executive Director review.
    1. Materials:
-      1. [Goals](https://docs.google.com/document/d/1m8oSEyf3_80ysEL90ZqNysgmXGs5RfX7iTqEaRx-oI4/edit)
+      1. [Goals](https://docs.google.com/document/d/1m8oSEyf3\_80ysEL90ZqNysgmXGs5RfX7iTqEaRx-oI4/edit)
       2. [previous retrospective notes](https://board.bff.fm/minutes/meetings/2020-03#19-32-performance-review-process)
       3. [strategic plan](https://app.gitbook.com/@bffdotfm/s/handbook/strategic-plan).
 
@@ -117,7 +117,7 @@ Present majority votes **YES** to adopt the proposed minutes.
 
 ### 20:13 — Meeting adjourned.
 
-The next meeting of the BFF.fm board is scheduled for 6pm on November 18th. See [https://board.bff.fm](https://board.bff.fm/) for more information.
+The next meeting of the BFF.fm board is scheduled for 6pm on November 18th. See [https://board.bff.fm](https://board.bff.fm) for more information.
 
 ## Action Items
 
@@ -133,4 +133,3 @@ Board member to send a meeting summary to the BFF.fm community: **XXXX**
   * With Tom, prepare the outline for Amanda’s Annual Review.
 * Tom
   * With Caryn, prepare the outline for Amanda’s Annual Review.
-

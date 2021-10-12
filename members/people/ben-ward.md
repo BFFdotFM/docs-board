@@ -13,4 +13,3 @@ Ben Ward has been a member of the BFF.fm community since 2014, hosting two shows
 As BFF.fm's Technical Director he chairs the technical committee, oversees all technical strategy for the station, and ensures infrastructure investments are aligned with the station goals.
 
 Ben presents [No Magic](https://bff.fm/shows/nomagic) and presented [Eclectic Kettle](https://bff.fm/shows/eclectic-kettle) on BFF.fm.
-

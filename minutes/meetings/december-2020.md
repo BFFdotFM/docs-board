@@ -1,5 +1,5 @@
 ---
-description: 'December 17th 2020, San Francisco'
+description: December 17th 2020, San Francisco
 ---
 
 # December 2020
@@ -8,8 +8,8 @@ description: 'December 17th 2020, San Francisco'
 
 ### Opening Items
 
-* Review Agenda & Vote \[Ben\]
-* Vote to approve previous minutes \[Ben\]
+* Review Agenda & Vote \[Ben]
+* Vote to approve previous minutes \[Ben]
 
 ### Discussion Topics
 
@@ -21,7 +21,7 @@ _Prior to the meeting, please add items for discussion here:_
    3. Board Development Committee
 2. Ferry Building Update
 3. Fundraising Update
-4. Executive Performance Review \[Caryn/Tom\]
+4. Executive Performance Review \[Caryn/Tom]
 
 ### Closing Items
 
@@ -91,5 +91,4 @@ Vote **YES** to adopt the proposed agenda.
 
 ### 19:31 — Meeting adjourned.
 
-The next meeting of the BFF.fm board is scheduled for 6pm on January 21st 2021. See [https://board.bff.fm](https://board.bff.fm/) for more information
-
+The next meeting of the BFF.fm board is scheduled for 6pm on January 21st 2021. See [https://board.bff.fm](https://board.bff.fm) for more information
