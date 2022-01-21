@@ -5,10 +5,10 @@ The BFF.fm board of directors guides the strategic direction and long-term susta
 ## Next Meeting
 
 {% hint style="danger" %}
-Due to the COVID-19 situation, the BFF.fm board is not currently hosting observers in person. If you are a member of the public and wish to observe a board meeting, please contact the chair prior to the meeting date so that virtual accomodations can be made. Thank you.
+Due to the COVID-19 situation, the BFF.fm board is not currently hosting observers in person. If you are a member of the public and wish to observe a board meeting, please contact the chair prior to the meeting date so that virtual accommodations can be made. Thank you.
 {% endhint %}
 
-The next meeting of the BFF.fm Board of Directors will be on **January 20th 2022 at 6pm.**
+The next meeting of the BFF.fm Board of Directors will be on **February 17th 2022 at 6pm.**
 
 > **Google Meet:** [https://meet.google.com/svz-czwg-eyn](https://meet.google.com/svz-czwg-eyn)
 
