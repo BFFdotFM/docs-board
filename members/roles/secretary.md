@@ -1,5 +1,5 @@
 ---
-description: Ben Ward
+description: Clair McDevitt
 ---
 
 # Board Secretary

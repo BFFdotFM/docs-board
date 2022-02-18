@@ -4,7 +4,7 @@ description: Board member since 2019
 
 # Ben Ward
 
-[Board Secretary](../roles/secretary.md), Technical Director
+Technical Director
 
 ![](../../.gitbook/assets/damn.jpg)
 
