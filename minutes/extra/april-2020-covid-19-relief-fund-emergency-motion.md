@@ -12,7 +12,7 @@ In planning the spring fundraiser with Josef we began discussing the idea of set
 
 **The fund will be open to bands and artists who can demonstrate a loss of income due to venue closures.**
 
-1. The fund will only be available to bands and artists living in the Bay Area and who have either played a [BFF.fm](http://bff.fm) show in the past or have been featured on [BFF.fm](http://bff.fm). (this gives us a pool of at least 5,000 artists!)
+1. The fund will only be available to bands and artists living in the Bay Area and who have either played a [BFF.fm](http://bff.fm/) show in the past or have been featured on [BFF.fm](http://bff.fm/). (this gives us a pool of at least 5,000 artists!)
 2. Priority will be given to those who can demonstrate the most acute financial need, particularly those with immediate needs, or those who have not been able to benefit from other programs.
 3. Money may be used for basic needs like rent, groceries, healthcare, etc.
 
@@ -23,15 +23,15 @@ I would like to make a motion for a vote to establish the fund under the followi
 3. If demand necessitates it, we will be voting to disburse funds on a weekly basis.
 4. I will disburse the funds via Paypal or Venmo, depending on what the recipient prefers.
 
-If we vote on this fund and it is approved, the fund will be an add-on to the spring fundraiser, meaning after donors give to [BFF.fm](http://bff.fm) they will get a pop up message inviting them to also give to the relief fund.
+If we vote on this fund and it is approved, the fund will be an add-on to the spring fundraiser, meaning after donors give to [BFF.fm](http://bff.fm/) they will get a pop up message inviting them to also give to the relief fund.
 
-We will work to reach out to as many of the bands previously involved in [BFF.fm](http://bff.fm) as possible. We should easily reach every Besties band, and every MUSH and [BFF.fm](http://bff.fm)Birthday band from the past.
+We will work to reach out to as many of the bands previously involved in [BFF.fm](http://bff.fm/) as possible. We should easily reach every Besties band, and every MUSH and [BFF.fm](http://bff.fm/)Birthday band from the past.
 
 Will anyone second my motion so that we can put forth a vote?
 
 **Tom Tierney**:
 
-I’ll second that fantastic idea. I love the add on on piece, does not take away funds from [bff.fm](http://bff.fm) while staying true to the mission
+I’ll second that fantastic idea. I love the add on on piece, does not take away funds from [bff.fm](http://bff.fm/) while staying true to the mission
 
 **Ben Ward:**
 
@@ -49,7 +49,7 @@ Question about the administration, both from the POV of what we need to do for r
 
 2\. This is a bit of a grey area...it seems like so many people are doing this sort of thing that it's going to be impossible for the IRS to track. I'm reaching out to the attorney who did our 501(c)3 this week to take a look at my draft of guidelines to see if there are any red flags.
 
-3\. We could either roll those funds into [BFF.fm](http://bff.fm), or hold them for future aid.
+3\. We could either roll those funds into [BFF.fm](http://bff.fm/), or hold them for future aid.
 
 **Will Craven:**
 
