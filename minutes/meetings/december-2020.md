@@ -91,4 +91,4 @@ Vote **YES** to adopt the proposed agenda.
 
 ### 19:31 — Meeting adjourned.
 
-The next meeting of the BFF.fm board is scheduled for 6pm on January 21st 2021. See [https://board.bff.fm](https://board.bff.fm/) for more information
+The next meeting of the BFF.fm board is scheduled for 6pm on January 21st 2021. See [https://board.bff.fm](https://board.bff.fm) for more information

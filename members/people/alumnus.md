@@ -14,4 +14,5 @@ description: These people previously served on the BFF.fm board. Thank you.
 | Forrest Guest | Treasurer                     | 2020       |
 | Will Craven   | President, Chair of the Board | 2020       |
 | Tom Tierney   | Vice Chair                    | 2021       |
+| Jenn Lemon    | Treasurer                     | 2022       |
 

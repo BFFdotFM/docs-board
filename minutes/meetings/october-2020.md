@@ -117,7 +117,7 @@ Present majority votes **YES** to adopt the proposed minutes.
 
 ### 20:13 — Meeting adjourned.
 
-The next meeting of the BFF.fm board is scheduled for 6pm on November 18th. See [https://board.bff.fm](https://board.bff.fm/) for more information.
+The next meeting of the BFF.fm board is scheduled for 6pm on November 18th. See [https://board.bff.fm](https://board.bff.fm) for more information.
 
 ## Action Items
 
