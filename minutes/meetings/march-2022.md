@@ -13,17 +13,10 @@ March 24, 2022, San Francisco
 
 ### Discussion Topics <a href="#_gh90gq7a3ij6" id="_gh90gq7a3ij6"></a>
 
-_Prior to the meeting, please add items for discussion here:_
-
 * Committee Updates
   1. Events
   2. Marketing
-     1. Marketing committee new member?
   3. Fundraising
-     1. April Mug Swap fundraiser
-     2. Fundraising committee new member?
-     3. GFTA grant application update
-     4. Pricing out annual fund campaign design from Angel Oak Creative
   4. Tech
   5. Board Development
   6. Music
@@ -75,13 +68,11 @@ Vote **YES** to adopt the proposed agenda. APPROVED
 
 #### Events <a href="#_ag5lj28sdfu3" id="_ag5lj28sdfu3"></a>
 
-Eddie: March Besties’ Bash was great, thanks to Dan for stepping in. Considering bands for next couple shows.
+March Besties’ Bash was great, thanks to Dan for stepping in. Considering bands for next couple shows.
 
 #### Marketing <a href="#_wgnuhzqsq9wv" id="_wgnuhzqsq9wv"></a>
 
-Marketing committee new member:
-
-Brandon: Talked to potential new member today, interested in helping revamp email blasts. This adds a third person, going to start meeting regularly. Also messaged with Lily about marketing for podcasts. Trying to tie that into overall app marketing. Also talking with the co-host of Bitch Talk about joining the committee..
+Marketing committee new member, talked to potential new member today, interested in helping revamp email blasts. This adds a third person, going to start meeting regularly. Also messaged with Lily about marketing for podcasts. Trying to tie that into overall app marketing. Also talking with the co-host of Bitch Talk about joining the committee..
 
 Amanda, each newsletter should include newest podcasts. Could also get social posts going.
 
