@@ -104,4 +104,4 @@ Each board member should name at least one person they will be soliciting for a 
 
 ### 20:32 — Meeting adjourned.
 
-The next meeting of the BFF.fm board is scheduled for 6pm on December 17th. See [https://board.bff.fm](https://board.bff.fm) for more information.
+The next meeting of the BFF.fm board is scheduled for 6pm on December 17th. See [https://board.bff.fm](https://board.bff.fm/) for more information.
