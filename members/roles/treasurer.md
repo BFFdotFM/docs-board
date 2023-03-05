@@ -1,5 +1,5 @@
 ---
-description: Jenn Lemon
+description: Irving Pham
 ---
 
 # Treasurer
