@@ -9,6 +9,7 @@
   * [Erika Delgado Aceves](members/people/erika-delgado-aceves.md)
   * [Amanda Guest](members/people/amanda-guest.md)
   * [Caryn Kesler](members/people/caryn-kesler.md)
+  * [Page 1](members/people/page-1.md)
   * [Clair McDevitt](members/people/clair-mcdevitt.md)
   * [Brandon Paski](members/people/brandon-paski.md)
   * [Ben Ward](members/people/ben-ward.md)
