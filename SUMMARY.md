@@ -11,6 +11,7 @@
   * [Caryn Kesler](members/people/caryn-kesler.md)
   * [Clair McDevitt](members/people/clair-mcdevitt.md)
   * [Brandon Paski](members/people/brandon-paski.md)
+  * [Irving Pham](members/people/irving-pham.md)
   * [Ben Ward](members/people/ben-ward.md)
   * [Alumnus](members/people/alumnus.md)
 * [Positions](members/roles/README.md)
