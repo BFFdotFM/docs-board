@@ -1,5 +1,5 @@
 ---
-description: Clair McDevitt
+description: Brandon Paski
 ---
 
 # Board Secretary
