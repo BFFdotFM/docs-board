@@ -19,7 +19,7 @@ Present:
 * **Amanda Guest**, Chair, Executive Director
 * **Caryn Kesler**, Vice Chair, Creative Director
 * **Jenn Lemon,** Treasurer
-* **Clair McDevitt**, **** Secretary, Chair of Fundraising Committee
+* **Clair McDevitt**, Secretary, Chair of Fundraising Committee
 * **Brandon Paski**, Chair of Marketing Committee
 * **Ben Ward**, Technical Director
 
