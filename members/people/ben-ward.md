@@ -6,7 +6,11 @@ description: Board member since 2019
 
 Technical Director
 
-![](../../.gitbook/assets/damn.jpg)
+<div align="left">
+
+<img src="../../.gitbook/assets/damn.jpg" alt="">
+
+</div>
 
 Ben Ward has been a member of the BFF.fm community since 2014, hosting two shows and lead the redevelopment of the BFF.fm website in 2017. He's a software engineer and product manager with over 15 years experience working in Silicon Valley and his native UK. He is the principal of Knitware, his own software and product studio in San Francisco.
 

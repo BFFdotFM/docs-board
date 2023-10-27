@@ -118,7 +118,7 @@ Subject to being able to comply with Section 5234(a)(2) of the Law, no contract 
 Interested directors may be counted in determining the presence of a quorum at a meeting of the board which authorizes, approves or ratifies a self-dealing transaction.
 
 {% hint style="info" %}
-Section 5233 defines “self-dealing transaction” to mean a transaction to which the corporation is a party and in which one or more directors has a material financial interest. A “self-dealing transaction” does not include (a) an action of the board fixing the compensation of a director as a director or officer of this corporation; (b) a transaction which is part of a public or charitable program of this corporation if it: (i) is approved or authorized by this corporation in good faith and without unjustified favoritism; and (ii) results in a benefit to one or more directors or their families because they are in the class of persons intended to be benefited by the public or charitable program; or (c) a transaction of which the interested director or directors have no actual knowledge, and which does not exceed the lesser of one percent (1%) of the gross receipts of this corporation for the preceding fiscal year or one hundred thousand dollars ($100,000). 
+Section 5233 defines “self-dealing transaction” to mean a transaction to which the corporation is a party and in which one or more directors has a material financial interest. A “self-dealing transaction” does not include (a) an action of the board fixing the compensation of a director as a director or officer of this corporation; (b) a transaction which is part of a public or charitable program of this corporation if it: (i) is approved or authorized by this corporation in good faith and without unjustified favoritism; and (ii) results in a benefit to one or more directors or their families because they are in the class of persons intended to be benefited by the public or charitable program; or (c) a transaction of which the interested director or directors have no actual knowledge, and which does not exceed the lesser of one percent (1%) of the gross receipts of this corporation for the preceding fiscal year or one hundred thousand dollars ($100,000).&#x20;
 
 This footnote is not part of this corporation’s Bylaws and is intended for informational purposes only.
 {% endhint %}
@@ -309,4 +309,3 @@ New Bylaws may be adopted or these Bylaws may be amended or repealed by the appr
 
 Adopted August 14, 2015
 
-****
