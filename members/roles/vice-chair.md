@@ -1,5 +1,5 @@
 ---
-description: Caryn Kesler
+description: Position Vacant
 ---
 
 # Vice Chair
