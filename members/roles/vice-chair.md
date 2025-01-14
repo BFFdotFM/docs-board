@@ -1,5 +1,5 @@
 ---
-description: Position Vacant
+description: Kerri O'Malley
 ---
 
 # Vice Chair

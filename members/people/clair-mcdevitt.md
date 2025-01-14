@@ -4,7 +4,7 @@ description: Board member since 2021
 
 # Clair McDevitt
 
-[Board Secretary](../roles/secretary.md), Chair of Fundraising Committee
+Chair of Fundraising Committee
 
 Clair McDevitt has spent most of the past 20 years living in San Francisco, where she has worked in communications and fundraising roles in the non-profit sector. Most recently, she was the communications manager for the Low Income investment Fund, where she wrote about all facets of community development with a focus on the interconnected housing and economic opportunity challenges facing the Bay Area.
 

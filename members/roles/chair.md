@@ -1,12 +1,12 @@
 ---
-description: Amanda Guest
+description: Ben Ward, Kerri O'Malley
 ---
 
 # Chair of the Board
 
 The BFF.fm board of directors guides the strategic direction and long-term sustainability of the station to advance our vision of building powerful community radio for San Francisco. The board’s leadership helps ensure that our mission, values, and our superpowers of positivity and inclusion are embodied in everything we do.
 
-The Chair of the Board shall, if present, preside over all meetings of the BFF.fm board, act as a liaison between the board and the president to help ensure the board’s directives and resolutions are carried out, and exercise and perform such other powers and duties as may be from time to time prescribed by the board. 
+The Chair of the Board shall, if present, preside over all meetings of the BFF.fm board, act as a liaison between the board and the president to help ensure the board’s directives and resolutions are carried out, and exercise and perform such other powers and duties as may be from time to time prescribed by the board.&#x20;
 
 ## Responsibilities
 
