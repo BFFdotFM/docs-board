@@ -16,4 +16,5 @@ description: These people previously served on the BFF.fm board. Thank you.
 | Tom Tierney   | Vice Chair                    | 2021       |
 | Jenn Lemon    | Treasurer                     | 2022       |
 | Caryn Kesler  | Vice Chair, Design Director   | 2024       |
+| Brandon Paski | Secretary                     | 2024       |
 

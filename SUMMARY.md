@@ -11,7 +11,6 @@
   * [Christa Hartsock](members/people/christa-hartsock.md)
   * [Clair McDevitt](members/people/clair-mcdevitt.md)
   * [Kerri O'Malley](members/people/kerri-omalley.md)
-  * [Brandon Paski](members/people/brandon-paski.md)
   * [Mark Pearson](members/people/mark-pearson.md)
   * [Irving Pham](members/people/irving-pham.md)
   * [Ben Ward](members/people/ben-ward.md)
