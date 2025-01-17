@@ -1,5 +1,5 @@
 ---
-description: Brandon Paski
+description: Christa Hartsock
 ---
 
 # Board Secretary
