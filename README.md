@@ -10,6 +10,6 @@ Due to the COVID-19 situation, the BFF.fm board is not currently hosting observe
 
 The BFF.fm Board of Directors meets monthly on the second Tuesday of the Month. The next meeting will be on **Feb. 11, 2025 at 6pm.**
 
-> **Google Meet:** [https://meet.google.com/svz-czwg-eyn](https://meet.google.com/svz-czwg-eyn)
+> **Google Meet:** [https://meet.google.com/auq-srom-tem](https://meet.google.com/auq-srom-tem)
 
 Public attendance of our board meetings is welcomed. Upon joining, your microphone will be muted and we kindly ask that it remain so to avoid disruption. Each meeting includes a dedicated opportunity for “Public Comment”, during which you will be invited to contribute.
