@@ -26,6 +26,7 @@
 
 * [Regular Meetings](minutes/meetings/README.md)
   * [2025](minutes/meetings/2025/README.md)
+    * [February 2025](minutes/meetings/2025/february-2025.md)
     * [January 2025](minutes/meetings/2025/january-2025.md)
   * [2024](minutes/meetings/2024/README.md)
     * [November 2024](minutes/meetings/2024/november-2024.md)
