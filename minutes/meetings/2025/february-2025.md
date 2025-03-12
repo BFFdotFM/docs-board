@@ -7,8 +7,8 @@ description: February 11th 2025, San Francisco
 ## Agenda <a href="#isq2qnxilcuv" id="isq2qnxilcuv"></a>
 
 * Review Agenda & Vote
-* [Vote to approve November minutes](https://docs.google.com/document/d/11_ST6txVlRQTBCUBgY47sh8gxfcz9ys1SULLvMHtQBs/edit?usp=drive_link).
-* [Vote to approve January minutes](https://docs.google.com/document/u/2/d/1qvBHcL_2Bn655D_7N_trI0MGD-6YQ0HEMVTaq7G-hlA/edit)
+* [Vote to approve November minutes](../2024/november-2024.md).
+* [Vote to approve January minutes](january-2025.md)
 * Resolve Previous Action Items
 * Discussion Topics
 
@@ -18,13 +18,7 @@ description: February 11th 2025, San Francisco
 2. Board Secretary Redux
 3. Volunteer General Manager role
 4. Draft Budget 2025 for Review & Approval
-   1. [BFF Budget 2024](https://docs.google.com/spreadsheets/d/1r9UrIV31dVPRlbTsVrl7aEBEN8OasNC-NFUiUF_ZXJ4/edit?usp=sharing)
-   2. Splitting out expenses for “Equipment”
-      1. Consumables vs. other items
-      2. How to better budget and plan for hardware replacement schedules?
 5. Listening Parties
-   1. What do we remember from our last discussions and how to proceed?
-   2. What committee do they fall under and what protocol should we follow for planning them?
 6. Secret Alley update
 7. 2025 Gala
 8. Website terms of service update
