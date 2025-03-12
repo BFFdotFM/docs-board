@@ -1,5 +1,5 @@
 ---
-description: Christa Hartsock
+description: Position vacant
 ---
 
 # Board Secretary

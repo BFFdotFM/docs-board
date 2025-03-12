@@ -1,5 +1,5 @@
 ---
-description: Ben Ward, Kerri O'Malley
+description: Amanda Guest
 ---
 
 # Chair of the Board
