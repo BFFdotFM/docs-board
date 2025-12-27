@@ -1,5 +1,5 @@
 ---
-description: April 8th 2025
+description: April 8th 2025, San Francisco
 ---
 
 # April 2025
@@ -78,7 +78,7 @@ Vote YES to approve last month’s minutes.&#x20;
 
 #### Shifting to governance from working board
 
-Vision:
+**Vision:**
 
 * BFF.fm board to become a governance board, focused on financial solvency, setting the budget, setting strategy (led by Exec Director with feedback from board), setting any policies as needed
 * Board to become a group that can focus solely on long-term strategic vision, while committee leads become station leadership to manage day-to-day operations and execute strategy
@@ -87,25 +87,25 @@ Vision:
 * Open question (to be added to next meeting’s agenda for Mark to weigh in on): what does the board want to hear from the Exec Director and Committee Leads to meet this goal?&#x20;
 * Clarification: Committee Leads do not need to present/be present at every board meeting; Exec Director would curate those presentations based on committee needs, board questions, relevant strategic initiatives
 
-Next steps:
+**Next steps:**
 
 * Form a working group to think through the timeline and recruitment needed to transition to this model
 * @ next Committee Leads meeting - discuss vision, including:
-* Committee Leads group to become Station Leadership&#x20;
-* \#station-leadership Slack channel to become public area for day-to-day operations conversations/questions (still have a private channel too) - remove board members from this channel
-* Defining goals, strategy, outcomes and reporting to the board
-* Annual goal setting/strategy planning with Exec Director
-* Is there anything that, in the interim, needs to be flagged for the board immediately, especially from a committee without board members in them currently?
-* Exec Director to join committee leads/station leadership meeting as an observer/helper/context provider
+  * Committee Leads group to become Station Leadership&#x20;
+    * \#station-leadership Slack channel to become public area for day-to-day operations conversations/questions (still have a private channel too) - remove board members from this channel
+  * Defining goals, strategy, outcomes and reporting to the board
+    * Annual goal setting/strategy planning with Exec Director
+    * Is there anything that, in the interim, needs to be flagged for the board immediately, especially from a committee without board members in them currently?
+  * Exec Director to join committee leads/station leadership meeting as an observer/helper/context provider
 
-Strategic initiatives mapping
+**Strategic initiatives mapping**
 
 * Fundraising (#2 - Fundraising) and Marketing (#3 - Audience Connection) currently mapped to strategic initiatives, Programming to similar&#x20;
 * Tech, Operations, Programming Committees need initiatives assigned - the following seem to fit:
-* Programming = #3 - Audience Connection
-* Operations & Tech = #1 - Collaborative Model&#x20;
+  * Programming = #3 - Audience Connection
+  * Operations & Tech = #1 - Collaborative Model&#x20;
 
-Policies needed
+**Policies needed**
 
 * Amanda to work with related committee leads/volunteers to talk about policies, bring to the board for approval: programming guidelines, purchasing, partnerships, brand guidelines, etc.
 * Specifically re: purchasing, committee leads should know what the budgets are related to their work; Irving to create a snapshot more relevant to committee leads and develop a purchase request system for easier tracking; purchases under $1,000 at discretion of Exec Director and over comes to the board for approval&#x20;
@@ -113,19 +113,22 @@ Policies needed
 
 #### Delete BFF.fm Facebook page
 
-* Marketing Committee fine with removing it, Amanda to delete it
+{% hint style="success" %}
+Marketing Committee fine with removing, Amanda to delete it
+{% endhint %}
 
 #### Mosswood Meltdown
 
-* Discussed and decided not to partner with The Complex for the stream again this year: it’s a significant investment with diminishing returns and not in our budget for 2025&#x20;
+{% hint style="success" %}
+Discussed and decided not to partner with The Complex for the stream again this year; Clair to reach out to George, Kerri to explore a booth or press pass
+{% endhint %}
+
 * Biggest benefit is sending DJs to attend - can explore other ways to attend for a smaller cost this year
-* Clair to reach out to George from The Complex&#x20;
-* Amanda to send Kerri contact info to follow up on a booth or press pass for the Marketing Committee
 
 #### Volunteer Month/Celebration of Volunteers
 
 * Had the idea of celebrating our volunteers during Volunteer Month (April)
-* Suggested we push back to another month: June 1st Town Hall to share where we are now, where we’re going, give awards/appreciation to people (committee chairs, volunteers on committees, etc.) in a more collaborative presentation of appreciation
+* Suggested we push back to another month: June Town Hall to share where we are now, where we’re going, give awards/appreciation to people (committee chairs, volunteers on committees, etc.) in a more collaborative presentation of appreciation
 * Committees to give a quick intro who they are, what they’re doing
 * Create more opportunities for people to gather: consider twice annual town halls, with perhaps a mixer in-between
 
@@ -144,10 +147,22 @@ Policies needed
 
 ### Any committee highlights?
 
-* Transition WG met briefly to talk about Doorbot operations; looking to add multiple people to the fallback call list for accessing the studio.
+* Transition Working Group met briefly to talk about Doorbot operations; looking to add multiple people to the fallback call list for accessing the studio.
 
 ### 7:40 pm — Meeting adjourned.
 
 The next meeting of the BFF.fm board is scheduled for May 19th 2025. See [https://board.bff.fm](https://board.bff.fm) for more information.<br>
 
-##
+## Action Items
+
+* \[Board] Further discuss and form the Board Evolution Working Group
+* \[Amanda] Connect with Alan to end work on trademark negotiations
+* \[Mark] Take over trademark negotiations
+* \[Irving] Break out budget by committee to make a snapshot view, create a purchase order form OR system for purchase requests to better track
+* \[Amanda] Begin work on drafting policies (not to be done by next board meeting!)
+* \[Amanda] Delete Facebook page
+* \[Clair] Reach out to George from The Complex re: Mosswood
+* \[Kerri] Research booth/press passes for Mosswood
+* \[Irving] Transfer money out of Givebutter for everything except the LPFM fund, check the PO box for pending funds&#x20;
+* \[Kerri/Clair/Amanda] Next Committee Leads meeting - include relevant topics here (new structure shared, evolution of the board, reporting to/sharing with the board, new policies work, Charm School curriculum, etc.)
+* \[Kerri] Follow up on event committee meet-up to collaborate on line-ups, DJ-driven Listening Parties
