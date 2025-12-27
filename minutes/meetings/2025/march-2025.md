@@ -1,5 +1,5 @@
 ---
-description: March 11th 2025
+description: March 11th 2025, San Francisco
 ---
 
 # March 2025
