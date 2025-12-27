@@ -4,11 +4,7 @@ The BFF.fm board of directors guides the strategic direction and long-term susta
 
 ## Next Meeting
 
-{% hint style="danger" %}
-Due to the COVID-19 situation, the BFF.fm board is not currently hosting observers in person. If you are a member of the public and wish to observe a board meeting, please contact the chair prior to the meeting date so that virtual accommodations can be made. Thank you.
-{% endhint %}
-
-The BFF.fm Board of Directors meets monthly on the second Tuesday of the Month. The next meeting will be on **Feb. 11, 2025 at 6pm.**
+The BFF.fm Board of Directors meets monthly on the second Tuesday of the Month. The next meeting will be on **January 13, 2026 at 6pm.**
 
 > **Google Meet:** [https://meet.google.com/auq-srom-tem](https://meet.google.com/auq-srom-tem)
 
