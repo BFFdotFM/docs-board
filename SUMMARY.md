@@ -6,10 +6,8 @@
 
 * [Members](members/overview.md)
 * [People](members/people/README.md)
-  * [Erika Delgado Aceves](members/people/erika-delgado-aceves.md)
   * [Amanda Guest](members/people/amanda-guest.md)
-  * [Clair McDevitt](members/people/clair-mcdevitt.md)
-  * [Kerri O'Malley](members/people/kerri-omalley.md)
+  * [Erika Delgado Aceves](members/people/erika-delgado-aceves.md)
   * [Mark Pearson](members/people/mark-pearson.md)
   * [Irving Pham](members/people/irving-pham.md)
   * [Alumnus](members/people/alumnus.md)

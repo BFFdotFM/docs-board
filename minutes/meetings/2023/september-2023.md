@@ -106,8 +106,7 @@ Possible repair for studio backup battery, $300. Keeps computers online when pow
 This was previously a redacted executive session.
 {% endhint %}
 
-The window to apply is in six weeks. Time to decide, ya or nay. More possible grants, under FCC rules, would give us more legitimacy as an org.\
-
+The window to apply is in six weeks. Time to decide, ya or nay. More possible grants, under FCC rules, would give us more legitimacy as an org.<br>
 
 What would it mean and what would it entail?\
 FCC has low power frequencies, 100 watts or less. Last time it was opened was 2013. In 2013, it was highly publicized that it was happening. Two frequencies open.\
