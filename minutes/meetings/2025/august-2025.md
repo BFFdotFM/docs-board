@@ -44,7 +44,7 @@ Present:&#x20;
 
 Absent:&#x20;
 
-* n/a
+* Erika Delgado, Board Member at Large
 
 ### 6:00 pm — Convene, Vote on Agenda & Previous Minutes
 

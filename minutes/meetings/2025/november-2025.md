@@ -36,9 +36,11 @@ Present:&#x20;
 * Irving
 * Mark
 * Kerri
-* Prospects: Brandon, Kenya
+* Prospects: Brandon Paski, Kenya Lewis
 
-Absent: Nobody
+Absent:
+
+* Erika Delgado, Board Member at Large
 
 ### 6:00 pm — Convene, Vote on Agenda & Previous Minutes
 
