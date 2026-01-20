@@ -5,7 +5,7 @@
 ## Membership <a href="#members" id="members"></a>
 
 * [Members](members/overview.md)
-* [People](members/people/README.md)
+* [Board Profiles](members/people/README.md)
   * [Amanda Guest](members/people/amanda-guest.md)
   * [Erika Delgado Aceves](members/people/erika-delgado-aceves.md)
   * [Mark Pearson](members/people/mark-pearson.md)
