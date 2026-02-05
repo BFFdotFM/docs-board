@@ -4,13 +4,8 @@
 
 ## Membership <a href="#members" id="members"></a>
 
-* [Members](members/overview.md)
-* [Board Profiles](members/people/README.md)
-  * [Amanda Guest](members/people/amanda-guest.md)
-  * [Erika Delgado Aceves](members/people/erika-delgado-aceves.md)
-  * [Mark Pearson](members/people/mark-pearson.md)
-  * [Irving Pham](members/people/irving-pham.md)
-  * [Alumnus](members/people/alumnus.md)
+* [Members](members/overview/README.md)
+  * [Alumnus](members/overview/alumnus.md)
 * [Positions](members/roles/README.md)
   * [Chair of the Board](members/roles/chair.md)
   * [Vice Chair](members/roles/vice-chair.md)
