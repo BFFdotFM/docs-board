@@ -16,6 +16,11 @@
 ## Minutes
 
 * [Regular Meetings](minutes/meetings/README.md)
+  * [2026](minutes/meetings/2026/README.md)
+    * [September 2026](minutes/meetings/2026/september-2026.md)
+    * [June 2025](minutes/meetings/2026/june-2025.md)
+    * [March 2026](minutes/meetings/2026/march-2026.md)
+    * [January 2026](minutes/meetings/2026/january-2026.md)
   * [2025](minutes/meetings/2025/README.md)
     * [November 2025](minutes/meetings/2025/november-2025.md)
     * [October 2025](minutes/meetings/2025/october-2025.md)
@@ -94,7 +99,6 @@
     * [April 2017](minutes/meetings/2017/2017-04.md)
     * [March 2017](minutes/meetings/2017/2017-03.md)
     * [February 2017](minutes/meetings/2017/2017-02.md)
-  * [2026](minutes/meetings/2026.md)
 * [Extraordinary Meetings](minutes/extra/README.md)
   * [June 2024 Special Board Meeting](minutes/extra/june-2024-special-board-meeting.md)
   * [July 2023 Executive Session Board Meeting](minutes/extra/july-2023-executive-session-board-meeting.md)
