@@ -16,13 +16,12 @@ The BFF.fm board of directors guides the strategic direction and long-term susta
 
 ### Leadership of BFF.fm
 
-* Supervise, manage, coordinate, direct and provide oversight of the activities and duties of volunteer staff
-* Curate and maintain programming schedule, working with volunteer staff in production of programming and development of new programs
+* Supervise, manage, coordinate, direct and provide oversight of the activities and duties of volunteer staff, including
+  * fundraising: setting overall fundraising strategy and all funding goals, and lead donor engagement with the help of volunteer staff
+  * marketing: developing partnerships that enhance BFF.fm’s work within the local music scene
+  * operations: overseeing the maintenance, upgrading, and improvement of technical facilities and operations
+  * programming: working with volunteer staff in production of programming and development of new programs
 * Lead the creation of the annual budget and regularly monitor expenditures to ensure fiscal responsibility
-* Set overall fundraising strategy and all funding goals, and lead donor engagement with the help of volunteer staff
-* Monitor industry trends, particularly in areas of technology and competitive market strategies to enable BFF.fm to maximize opportunities and improve market position
-* Oversee the maintenance, upgrading, and improvement of technical facilities and operations
-* Seek and grow partnerships that enhance BFF.fm’s work within the local music scene
 
 ### Partnership with Board Chair, working with them to
 
