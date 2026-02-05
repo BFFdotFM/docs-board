@@ -94,6 +94,7 @@
     * [April 2017](minutes/meetings/2017/2017-04.md)
     * [March 2017](minutes/meetings/2017/2017-03.md)
     * [February 2017](minutes/meetings/2017/2017-02.md)
+  * [2026](minutes/meetings/2026.md)
 * [Extraordinary Meetings](minutes/extra/README.md)
   * [June 2024 Special Board Meeting](minutes/extra/june-2024-special-board-meeting.md)
   * [July 2023 Executive Session Board Meeting](minutes/extra/july-2023-executive-session-board-meeting.md)
